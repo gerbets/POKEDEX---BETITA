@@ -1,0 +1,14 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "keywords": [],
+  "author": "Gerry Betita III",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "workshop" 
+}
